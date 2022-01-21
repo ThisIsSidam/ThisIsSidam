@@ -9,4 +9,4 @@ I deleted my fb, not so much of a social guy.
 a voice actor, but doesn't actually have a computer or a mic. Currently, I have
 installed VNC viewer and termux on my smartphone, with which I have a linux to 
 learn my programming on. If you have a pc which you can give me or sell on a CHEAP
-PRICE, contact me, details are givem above. Thank you foe reading.
+PRICE, contact me, details are given above. Thank you for reading.
