@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @ThisIsSidam
-- 👀 I’m interested in Software Development and AI.
-- 🌱 I’m currently doing B.Sc. IT (AI) while working on Flutter applications on the side.
-- 📫 I go by ThisIsSidam on all social media apps. Although I don't use many. Reddit is my favorite and I try to use LinkedIn as much as I can.
+# 👋 Hi, I’m Anshu
+[![Anshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisissidam)](https://github.com/thisissidam/github-readme-stats)
